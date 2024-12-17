@@ -1,0 +1,5 @@
+name: my_mojo_project
+description: A new mobile app using Mojo framework
+dependencies:
+  mojo: ^2.0.0
+  http: ^0.13.3
